@@ -111,7 +111,7 @@ RSpec.configure do |config|
 
     stub_request(:get, 'https://letsrevolutionizetesting.com/challenge?format=json&id=756775492').
       to_return(
-        body: '{"message":"Congratulations!"}'
+        body: '{"message":"Congratulations! You\'ve reached the end! Please add the code (or a link to a repo with the code in it) you used to solve it to your application. We\'ll be in touch shortly!"}'
       )
   end
 end

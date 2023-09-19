@@ -1,5 +1,3 @@
-# require 'uri'
-# require 'net/http'
 require 'httparty'
 
 class Rainforest
