@@ -1,3 +1,4 @@
+[![Ruby](https://github.com/alexmamonchik/rainforest_test_app/actions/workflows/ruby.yml/badge.svg)](https://github.com/alexmamonchik/rainforest_test_app/actions/workflows/ruby.yml)
 ## This is just a test
 
 URL: https://jobs.lever.co/rainforest/0a0a67a0-3ac0-4fcc-acb7-a5029de861d4
